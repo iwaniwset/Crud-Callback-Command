@@ -1,0 +1,21 @@
+[{
+  "id": 1,
+  "name": "Tony Stark",
+  "alter": "Iron Man",
+  "ability": "Iron Suit"
+}, {
+  "id": 2,
+  "name": "Tony Stark",
+  "alter": "Iron Man",
+  "ability": "Iron Suit"
+}, {
+  "id": 3,
+  "name": "Thor",
+  "alter": "Thor",
+  "ability": "Thunder"
+}, {
+  "id": 4,
+  "name": "Wade Wilson",
+  "alter": "Deadpool",
+  "ability": "Healing Factor"
+}]
